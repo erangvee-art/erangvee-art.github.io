@@ -6,9 +6,11 @@ Minted artworks:
 
 ---
 
-Twitter: erangvee
-Instagram: erangvee
-Website: erangvee.carrd.co
+**Twitter**: [erangvee](https://twitter.com/erangvee)
+
+**Instagram**: [erangvee](https://www.instagram.com/erangvee/)
+
+**Website**: [erangvee.carrd.co](https://erangvee.carrd.co/)
 
 
  
