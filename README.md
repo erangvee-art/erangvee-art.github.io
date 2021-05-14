@@ -8,6 +8,7 @@ Minted artworks:
   * [View in SLP explorer](https://simpleledger.info/#token/807c2b084cc173d07ad9b95967b806c358fb650253e33fffa6360451262f59d4)
 - [wake up dreaming](https://www.juungle.net/#/assets/888458ff331953ce06a73a8d12407f529a12800064c1e1ec8a9907966b1ef479)
   * [View in SLP explorer](https://simpleledger.info/#token/888458ff331953ce06a73a8d12407f529a12800064c1e1ec8a9907966b1ef479)
+
 ---
 
 **Twitter**: [erangvee](https://twitter.com/erangvee)
