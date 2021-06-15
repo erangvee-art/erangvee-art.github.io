@@ -8,7 +8,7 @@ Minted artworks:
   * [View in SLP explorer](https://simpleledger.info/#token/807c2b084cc173d07ad9b95967b806c358fb650253e33fffa6360451262f59d4)
 - [wake up dreaming](https://www.juungle.net/#/assets/888458ff331953ce06a73a8d12407f529a12800064c1e1ec8a9907966b1ef479)
   * [View in SLP explorer](https://simpleledger.info/#token/888458ff331953ce06a73a8d12407f529a12800064c1e1ec8a9907966b1ef479)
-- [wake up dreaming](https://www.juungle.net/#/assets/1ae7a1af863d718950adba37301a1e798ac5b4de1f45e92f0a7720f98f159763)
+- [color you pink](https://www.juungle.net/#/assets/1ae7a1af863d718950adba37301a1e798ac5b4de1f45e92f0a7720f98f159763)
   * [View in SLP explorer](https://simpleledger.info/#token/1ae7a1af863d718950adba37301a1e798ac5b4de1f45e92f0a7720f98f159763)
 
 ---
